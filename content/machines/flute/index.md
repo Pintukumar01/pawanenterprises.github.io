@@ -1,20 +1,17 @@
 ---
-title: "HEIDELBERG 102 "
+title: "Flute laminator"
 date: 2023-07-27T18:45:37+01:00
 draft: false
-description: "bio here ........."
+description: "Fully Otto machine"
 categories: ["machine"]
 tags: ["", "", ]
 ---
 
-- Cp tonic
-- Serial no 529 AP
-- 5 color
-- Size 28×40"
-- Alcolor dampening
-- Running machine
-
-
+### Flute laminator
+- Size 36*50 inches
+- Model 2010
+- Fully Otto machine
+- Three play
 
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
     <div>
@@ -32,7 +29,19 @@ tags: ["", "", ]
     <div>
         <img class="h-auto max-w-full rounded-lg" src="featured.jpg" alt="">
     </div>
+    <div>
+        <img class="h-auto max-w-full rounded-lg" src="05.jpg" alt="">
+    </div>
+    <div>
+        <img class="h-auto max-w-full rounded-lg" src="06.jpg" alt="">
+    </div>
+    <div>
+        <img class="h-auto max-w-full rounded-lg" src="07.jpg" alt="">
+    </div>
+    <div>
+        <img class="h-auto max-w-full rounded-lg" src="08.jpg" alt="">
+    </div>
+    <div>
+        <img class="h-auto max-w-full rounded-lg" src="09.jpg" alt="">
+    </div>
 </div>
-
-
-{{< youtube id="n0XUYxPuvb0" autoplay="true" >}}

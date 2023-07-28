@@ -1,5 +1,5 @@
 colorScheme = "ocean"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -29,7 +29,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/main.jpg" # used in: hero, and card
+  homepageImage = "img/print.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 8
   showMoreLink = false
@@ -58,7 +58,7 @@ smartTOCHideUnfocusedChildren = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = true
+  showTableOfContents = false
   showRelatedContent = true
   relatedContentLimit = 3
   showTaxonomies = true
@@ -107,25 +107,19 @@ smartTOCHideUnfocusedChildren = true
   cardView = false
   cardViewScreenWidth = false
 
-[firebase]
-  apiKey = "AIzaSyBtkn8N_njw4ICKLkzqSSBsuV5uQOzQyLM"
-  authDomain = "harisheoran-c3a13.firebaseapp.com"
-  projectId = "harisheoran-c3a13"
-  storageBucket = "harisheoran-c3a13.appspot.com"
-  messagingSenderId = "962244538381"
-  appId = "1:962244538381:web:6d1644b8dbe03390fda544"
-  measurementId = "G-5TXFZLWMBX"
+#[firebase]
+ 
 
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
-[buymeacoffee]
-  identifier = "harisheoran"
-  globalWidget = true
-  globalWidgetMessage = "Hello"
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
+#[buymeacoffee]
+#  identifier = "harisheoran"
+#  globalWidget = true
+#  globalWidgetMessage = "Hello"
+#  globalWidgetColor = "#FFDD00"
+#  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

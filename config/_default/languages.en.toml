@@ -8,19 +8,19 @@ title = "Pawan Enterprises"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
-  secondaryLogo = "img/main.jpg"
+  logo = ""
+  secondaryLogo = "img/logo.png"
   description = "Pawan Enterprises, Haridwar, Uttarakhand"
   copyright = "Copyright 2023 Pawan Enterprises"
   
 
  [author]
    name = "Pawan Enterprises"
-   image = "img/main.jpg"
+   image = "img/logo.png"
    headline = "from Haridwar, Uttarakhand"
-   bio = "bio ......."
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+   bio = "Haridwar, Uttarakhand"
+    links = [
+      { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -59,7 +59,7 @@ title = "Pawan Enterprises"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+      { whatsapp = "https://wa.me/phone-number" },
+      { youtube = "https://www.youtube.com/@PawanEnterprises-vg3ed" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+     ]
