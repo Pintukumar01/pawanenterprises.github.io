@@ -15,12 +15,12 @@ Selling and buying machines
 Call us
 {{< /button >}} 
 
-> {{< button href="mailto:pintukumar2325pk@gmail.com" target="_self" >}}
+> {{< button href="mailto:pintukumar2325pk@gmail.com" target="_blank" >}}
 {{< icon "mail" >}}
 Mail us
 {{< /button >}}
 
-> {{< button href="" target="_self" >}}
+> {{< button href="https://wa.me/qr/VOORAYSZB5TYK1" target="_blank" >}}
 {{< icon "whatsapp" >}}
 WhatsApp
 {{< /button >}}
