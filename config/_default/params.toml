@@ -107,8 +107,14 @@ smartTOCHideUnfocusedChildren = true
   cardView = false
   cardViewScreenWidth = false
 
-#[firebase]
- 
+[firebase]
+  apiKey = "AIzaSyAC2EvnxEupEk1jO8tlykbbM29GJtabG6k"
+  authDomain = "pawan-enterprises-8c6fb.firebaseapp.com"
+  projectId = "pawan-enterprises-8c6fb"
+  storageBucket = "pawan-enterprises-8c6fb.appspot.com"
+  messagingSenderId = "68945726093"
+  appId = "1:68945726093:web:461eac264e0345070d30c4"
+  measurementId = "G-4NMP5VF9KT"
 
 [fathomAnalytics]
   # site = "ABC12345"
