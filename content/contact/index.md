@@ -16,7 +16,7 @@ Call us
 {{< /button >}} 
 
 > {{< button href="mailto:pintukumar2325pk@gmail.com" target="_blank" >}}
-{{< icon "mail" >}}
+{{< icon "envelope" >}}
 Mail us
 {{< /button >}}
 
