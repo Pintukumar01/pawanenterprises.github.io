@@ -52,8 +52,8 @@
   name = "Contact Us"
   pageRef = "contact"
   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+  
+[[footer]]
+  name = "Maintained by Sparrow Bit"
+  url = "https://sparrowbit.bio.link/"
+  weight = 20
